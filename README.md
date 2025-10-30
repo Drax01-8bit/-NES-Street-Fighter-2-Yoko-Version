@@ -13,5 +13,7 @@ Graphic improvements have been made:
 9. apply the patch to the rom:
 
 Filename: Master Fighter II (Unl) [!].nes
+
 CRC-32:31c69f9f
+
 SHA-1: 3a0d0593003df6c116e0c13f1f062f1dcec142ed
